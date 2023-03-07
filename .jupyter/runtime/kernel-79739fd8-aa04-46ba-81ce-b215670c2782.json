@@ -1,0 +1,12 @@
+{
+  "shell_port": 45053,
+  "iopub_port": 45121,
+  "stdin_port": 55515,
+  "control_port": 39447,
+  "hb_port": 57575,
+  "ip": "127.0.0.1",
+  "key": "a309a8d4-c3c44deaaef67a5209009f42",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "haskell-minimal"
+}

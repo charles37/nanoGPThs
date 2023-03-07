@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 373671,
+  "port": 8888,
+  "root_dir": "/home/ben/personal/nanoGPThs",
+  "secure": false,
+  "sock": "",
+  "token": "e2384f6305d0035004d6a6920cf20cccf84e631cc45091e4",
+  "url": "http://localhost:8888/",
+  "version": "1.21.0"
+}
